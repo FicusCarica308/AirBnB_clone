@@ -1,1 +1,2 @@
-Welcome to webstatic
+WEBSTATIC FOR AIRBNB CLONE:
+Author: MANUEL FIGUEROA
