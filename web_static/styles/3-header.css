@@ -4,5 +4,5 @@ header {
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
     /* has all backround settings */
-    background: url( 'https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png' ) no-repeat 20px 50%;
+    background: url( '../images/logo.png' ) no-repeat 20px 50%;
 }
